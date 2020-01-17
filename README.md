@@ -9,5 +9,9 @@ in the command line
 
 download webpage:
 ```
-obsydian
+obsydian "website name"
+```
+example 
+``` 
+obsydian https://google.com
 ```
