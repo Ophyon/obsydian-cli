@@ -1,9 +1,5 @@
 # obsydian-cli
 
-```
-obsydian <command>
-```
-in the command line
 
 ## download webpage:
 ```
