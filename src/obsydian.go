@@ -9,10 +9,7 @@ import (
 )
 
 func main() {
-	var userinput string
-	fmt.Print("site:")
-	fmt.Scan(&userinput)
-    response, err := http.Get(userinput)
+    response, err := http.Get(os.Args[1])
     if err != nil {
         log.Fatal(err)
     }
