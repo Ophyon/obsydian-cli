@@ -1,7 +1,5 @@
 # obsydian-cli
-Command line interface in go 
 
-just create an env variable and run
 ```
 obsydian <command>
 ```
@@ -9,9 +7,12 @@ in the command line
 
 ## download webpage:
 ```
-obsydian "website name"
+go run obsydian.go "website name"
 ```
 example 
+```
+cd src
+```
 ``` 
-obsydian https://google.com
+go run obsydian.go https://google.com
 ```
