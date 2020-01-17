@@ -9,5 +9,5 @@ in the command line
 
 download webpage:
 ```
-obsydian site
+obsydian
 ```
