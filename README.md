@@ -7,7 +7,7 @@ obsydian <command>
 ```
 in the command line
 
-download webpage:
+## download webpage:
 ```
 obsydian "website name"
 ```
